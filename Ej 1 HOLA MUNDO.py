@@ -7,9 +7,7 @@ EN VARIAS LINEAS
 '''
 ESTO TAMBIÉN ES UN COMENTARIO EN VARIAS LINEAS
 '''
-var ("numero")
 my_variable = "Mi variable"
-bool ("día")
 MY_CONSTANT = "Mi constante"
 my_int = 1
 my_float = 1,3
