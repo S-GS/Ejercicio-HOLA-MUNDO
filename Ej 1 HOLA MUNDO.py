@@ -4,4 +4,9 @@
 COMENTARIO
 EN VARIAS LINEAS
 """
-	var ("numero")
+'''
+ESTO TAMBIÉN ES UN COMENTARIO EN VARIAS LINEAS
+'''
+var ("numero")
+my_variable
+bool ("día")
