@@ -8,5 +8,6 @@ EN VARIAS LINEAS
 ESTO TAMBIÉN ES UN COMENTARIO EN VARIAS LINEAS
 '''
 var ("numero")
-my_variable
+my_variable = "Mi variable"
 bool ("día")
+const
