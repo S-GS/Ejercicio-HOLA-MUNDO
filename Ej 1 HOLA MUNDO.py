@@ -4,4 +4,4 @@
 COMENTARIO
 EN VARIAS LINEAS
 """
-variable
+	var ("numero")
